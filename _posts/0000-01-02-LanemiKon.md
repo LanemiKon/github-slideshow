@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+---"Dildoes are better understood then swords"
 Use the left arrow to go back!
